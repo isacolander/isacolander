@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isacolander
-- 👀 I’m interested in UX-Design
-- 🌱 I’m currently learning/studying UX-Design at IT Högskolan in Gothenburg.
+- 👀 I’m interested in UX-Design and Programming
+- 🌱 I’m currently studying UX-Design @ IT Högskolan in Gothenburg, Sweden.
 - 💞️ I’m looking to collaborate!
 - 📫 How to reach me @mail@isacolanderux.com instagram: @uxisac
 
