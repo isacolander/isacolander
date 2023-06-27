@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @isacolander
-- 👀 I’m interested in UX-Design and Programming
-- 🌱 I’m currently studying UX-Design @ IT Högskolan in Gothenburg, Sweden.
-- 💞️ I’m looking to collaborate!
-- 📫 How to reach me @mail@isacolanderux.com instagram: @uxisac
+- 👋 Hey, I’m @isacolander
+- 👀 I’m interested in Design and Development
+- 🌱 I recently graduated from IT Högskolan, UX Design. in Gothenburg, Sweden.
+- 🧪 I’m looking to collaborate!
+- 🗺 @mail@isacolanderux.com
 
 <!---
 isacolander/isacolander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
